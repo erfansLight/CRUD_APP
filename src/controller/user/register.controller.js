@@ -1,4 +1,4 @@
-import { Register } from "../../services/user/registeration.service.js";
+import { Register } from "../../services/user/registration.service.js";
 import Joi from 'joi'
 
 
